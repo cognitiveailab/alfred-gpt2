@@ -1,0 +1,56 @@
+CleanObject	Clean
+ToggleObject	Toggle
+PutObject	Put
+NoOp	NoOp
+GotoLocation	Go to
+HeatObject	Heat
+CoolObject	Cool
+SliceObject	Slice
+PickupObject	Pick up
+	
+ToggleObjectOff	Turn off
+OpenObject	Open
+MoveAhead	Move
+PutObject	Put
+RotateLeft	Turn left
+RotateRight	Turn right
+LookDown	Look down
+SliceObject	Slice
+ToggleObjectOn	Turn on
+PickupObject	Pick up
+LookUp	Look up
+CloseObject	Close
+	
+bathtubbasin	bath tub
+saltshaker	salt shaker
+floorlamp	floor lamp
+handtowel	hand towel
+sidetable	side table
+keychain	key chain
+soapbottle	soap bottle
+handtowelholder	towel holder
+garbagecan	garbage can
+coffeetable	coffee table
+winebottle	wine bottle
+soapbar	soap bar
+countertop	countertop
+wateringcan	watering can
+baseballbat	baseball bat
+tissuebox	tissue box
+toiletpaper	toilet paper
+dishsponge	dish sponge
+creditcard	credit card
+remotecontrol	remote control
+armchair	chair
+glassbottle	glass bottle
+alarmclock	alarm clock
+tennisracket	tennis racket
+toiletpaperhanger	toilet paper hanger
+peppershaker	paper shaker
+stoveburner	stove burner
+spraybottle	spray bottle
+desklamp	desk lamp
+coffeemachine	coffee machine
+sinkbasin	sink basin
+diningtable	dining table
+butterknife	butter knife
