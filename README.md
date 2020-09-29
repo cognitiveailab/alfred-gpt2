@@ -37,18 +37,18 @@ Yes.  The error analysis used to generate Table 3 is available here: [/results/e
 #### Q: Some of the ALFRED command sequences are quite long.  How does performance vary with sequence length?
 While not included in the paper for space, the scorer also outputs performance by position in the command sequence.  That performance for the full model trained to 30 epochs is:
 
-| Element Index | Full Tripple Accuracy | Notes |
-|:-------------:|:--------:|:-----:|
-|       1       |   0.414   |  Almost always {goto, startLocation}     |
-|       2       |   0.896   |       |
-|       3       |   0.839   |       |
-|       4       |   0.802   |       |
-|       5       |   0.597   |       |
-|       6       |   0.688   |       |
-|       7       |   0.606   |       |
-|       8       |   0.725   |       |
-|       9       |   0.557   |       |
-|       10+     |   0.572   |       |
+| Element Index | Full Tripple Accuracy | Sample Count (N) | Notes |
+|:-------------:|:--------:|:-----:|:-----:|
+|       1       |   0.414   |  7,571     |  Almost always {goto, startLocation}     |
+|       2       |   0.896   |  7,571     |       |
+|       3       |   0.839   |  7,571     |       |
+|       4       |   0.802   |  7,538     |       |
+|       5       |   0.597   |  5,582     |       |
+|       6       |   0.688   |  5,558     |       |
+|       7       |   0.606   |  3,152     |       |
+|       8       |   0.725   |  2,325     |       |
+|       9       |   0.557   |  1,073     |       |
+|       10+     |   0.572   |  3,081     |       |
 
 From the paper: The first triple in the command sequence is almost always {goto, startLocation}, and requires visual information much of the time. The Table 1, "Full Minus First" condition, excludes this to see how well the model performs on all other triples in the sequence.
 
