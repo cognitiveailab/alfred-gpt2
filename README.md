@@ -2,11 +2,11 @@
 
 # Introduction
 ---
-This is the repository for the paper [Visually-Grounded Planning without Vision: Language Models Infer Detailed Plans from High-level Instructions](http://cognitiveai.org/wp-content/uploads/2020/09/jansen2020-visual-planning-without-vision-alfred-gpt2-findingsemnlp.pdf) *(Findings of EMNLP 2020)*, which makes use of the Ask for ALFRED (https://askforalfred.com/) visually-grounded virtual agent task. 
+This is the repository for the paper [Visually-Grounded Planning without Vision: Language Models Infer Detailed Plans from High-level Instructions](https://arxiv.org/abs/2009.14259) *(Findings of EMNLP 2020)*, which makes use of the Ask for ALFRED (https://askforalfred.com/) visually-grounded virtual agent task. 
 
 ![image](alfred-example.png)
 
-For questions, comments, or issues, please e-mail pajansen@email.arizona.edu .
+For questions, comments, or issues, please e-mail Peter Jansen ( pajansen@email.arizona.edu / www.cognitiveai.org ).
 
 
 # Frequently Asked Questions / TL;DR
